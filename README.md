@@ -2,8 +2,8 @@
 
 A fun and responsive cartoon-style **penguin animation** built entirely with **HTML & CSS**. This adorable flappy penguin waves its little flipper while standing proudly in a snow-capped mountain scene. Built as part of the [freeCodeCamp Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/) certification.
 
-> 💡 Click the penguin to see it scale up, and watch it wave endlessly!  
-> 💻 View Live: [Happy Flappy Penguin on Vercel]([https://your-vercel-link.vercel.app](https://happy-flappy-penguin.vercel.app/)) *(replace with actual link)*
+💡 Click the penguin to see it scale up, and watch it wave endlessly!  
+💻 View Live: [Happy Flappy Penguin on Vercel](https://happy-flappy-penguin.vercel.app/) 
 
 ---
 
